@@ -1,6 +1,6 @@
 {
-    "name": "vocab_learn",
-    "short_name": "vocab_learn",
+    "name": "VocabLearn",
+    "short_name": "VocabLearn",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
